@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555859990090",
+    "project_id": "madapp-2c289",
+    "storage_bucket": "madapp-2c289.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555859990090:android:6f8f02b6a33e4553a0b8b3",
+        "android_client_info": {
+          "package_name": "com.madapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmaSCk1Um77PgJQQbdtcdrj3UpI3XfAjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555859990090:android:8b422fb03e71716da0b8b3",
+        "android_client_info": {
+          "package_name": "com.mapapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmaSCk1Um77PgJQQbdtcdrj3UpI3XfAjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
